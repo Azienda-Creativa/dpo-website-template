@@ -25,11 +25,7 @@ export default function Footer() {
             <ul className="space-y-4 text-teal-100/70">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-rose-300 shrink-0 mt-0.5" />
-                <span>Zuidas 123<br/>1082 AB Amsterdam</span>
-              </li>
-              <li className="flex items-center gap-3">
-                <Phone className="w-5 h-5 text-rose-300 shrink-0" />
-                <span>020 - 123 45 67</span>
+                <span>1062HE - Amsterdam</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-rose-300 shrink-0" />

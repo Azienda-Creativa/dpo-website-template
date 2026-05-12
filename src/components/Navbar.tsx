@@ -10,7 +10,6 @@ export default function Navbar() {
     { name: 'Home', path: '/' },
     { name: 'Services', path: '/diensten' },
     { name: 'About Us', path: '/over-mij' },
-    { name: 'Resources', path: '/kennisbank' },
     { name: 'Contact', path: '/contact' },
   ];
 

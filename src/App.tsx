@@ -4,7 +4,6 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import Services from './pages/Services';
 import About from './pages/About';
-import Resources from './pages/Resources';
 import Contact from './pages/Contact';
 
 export default function App() {
@@ -17,7 +16,6 @@ export default function App() {
             <Route path="/" element={<Home />} />
             <Route path="/diensten" element={<Services />} />
             <Route path="/over-mij" element={<About />} />
-            <Route path="/kennisbank" element={<Resources />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>

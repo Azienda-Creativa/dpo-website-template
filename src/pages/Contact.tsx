@@ -31,17 +31,6 @@ export default function Contact() {
             <div className="space-y-10">
               <div className="flex items-start gap-6">
                 <div className="w-14 h-14 bg-teal-50 rounded-full flex items-center justify-center shrink-0">
-                  <Phone className="w-6 h-6 text-teal-600" />
-                </div>
-                <div>
-                  <h3 className="text-xl font-serif font-bold text-teal-900">Phone</h3>
-                  <p className="text-stone-500 mt-1">Mon to Fri, 09:00 - 17:00</p>
-                  <a href="tel:0201234567" className="text-teal-600 font-medium text-lg mt-2 block hover:underline">020 - 123 45 67</a>
-                </div>
-              </div>
-
-              <div className="flex items-start gap-6">
-                <div className="w-14 h-14 bg-teal-50 rounded-full flex items-center justify-center shrink-0">
                   <Mail className="w-6 h-6 text-teal-600" />
                 </div>
                 <div>
@@ -58,9 +47,7 @@ export default function Contact() {
                 <div>
                   <h3 className="text-xl font-serif font-bold text-teal-900">Office</h3>
                   <p className="text-stone-600 mt-2 leading-relaxed">
-                    Zuidas 123<br />
-                    1082 AB Amsterdam<br />
-                    Netherlands
+                    1062HE - Amsterdam
                   </p>
                 </div>
               </div>

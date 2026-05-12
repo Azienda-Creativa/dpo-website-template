@@ -19,7 +19,7 @@ export default function Home() {
                 Privacy is more than rules. It's <span className="text-rose-400 italic">respect</span> for people.
               </h1>
               <p className="text-lg text-stone-600 mb-10 leading-relaxed">
-                We help conscious and inclusive businesses become GDPR-proof. No cold bureaucracy, but a warm, practical approach that builds trust with your diverse audience.
+                We help businesses and organizations to become GDPR-proof. No cold bureaucracy, but a warm, practical and tailored approach that builds trust with your diverse audience.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link 
